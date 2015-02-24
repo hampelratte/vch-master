@@ -36,8 +36,14 @@
         <module>../vch-parser-ard</module>
         <module>../vch-parser-arte</module>
         <module>../vch-parser-br</module>
+        <module>../vch-parser-golem</module>
+        <module>../vch-parser-myspass</module>
+        <module>../vch-parser-orf</module>
         <module>../vch-parser-rss</module>
+        <module>../vch-parser-rtl</module>
+        <module>../vch-parser-sat1</module>
         <module>../vch-parser-service</module>
+        <module>../vch-parser-sf</module>
         <module>../vch-parser-web</module>
         <module>../vch-parser-zdf</module>
         <module>../vch-playlist</module>
@@ -45,7 +51,9 @@
         <module>../vch-playlist-osd</module>
         <module>../vch-playlist-web</module>
         <module>../vch-search</module>
+        <module>../vch-search-3sat</module>
         <module>../vch-search-ard</module>
+        <module>../vch-search-arte</module>
         <module>../vch-search-osd</module>
         <module>../vch-search-web</module>
         <module>../vch-search-zdf</module>
@@ -59,23 +67,15 @@
         <module>../vch-android-web</module>
         <module>../vch-parser-brainblog</module>
         <module>../vch-parser-dmax</module>
-        <module>../vch-parser-golem</module>
         <module>../vch-parser-lindenstrasse</module>
         <module>../vch-parser-msn</module>
-        <module>../vch-parser-myspass</module>
         <module>../vch-parser-n24</module>
-        <module>../vch-parser-orf</module>
         <module>../vch-parser-prosieben</module>
-        <module>../vch-parser-rtl</module>
-        <module>../vch-parser-sat1</module>
         <module>../vch-parser-servustv</module>
-        <module>../vch-parser-sf</module>
         <module>../vch-parser-sport1</module>
         <module>../vch-parser-tivi</module>
         <module>../vch-parser-youporn</module>
         <module>../vch-parser-youtube</module>
-        <module>../vch-search-3sat</module>
-        <module>../vch-search-arte</module>
         <module>../vch-search-n24</module>
         <module>../vch-search-orf</module>
         <module>../vch-search-youtube</module>
