@@ -45,6 +45,7 @@
         <module>../vch-parser-service</module>
         <module>../vch-parser-sf</module>
         <module>../vch-parser-web</module>
+        <module>../vch-parser-youtube</module>
         <module>../vch-parser-zdf</module>
         <module>../vch-playlist</module>
         <module>../vch-playlist-config</module>
@@ -75,7 +76,6 @@
         <module>../vch-parser-sport1</module>
         <module>../vch-parser-tivi</module>
         <module>../vch-parser-youporn</module>
-        <module>../vch-parser-youtube</module>
         <module>../vch-search-n24</module>
         <module>../vch-search-orf</module>
         <module>../vch-search-youtube</module>
