@@ -44,6 +44,7 @@
                 <include>de.berlios.vch:download</include>
                 <include>de.berlios.vch:download.http</include>
                 <include>de.berlios.vch:download.mms</include>
+                <include>de.berlios.vch:download.rtmp</include>
                 <include>de.berlios.vch:download.web</include>
                 <include>de.berlios.vch:feedsupport</include>
                 <include>de.berlios.vch:httpclient</include>
@@ -53,17 +54,17 @@
                 <include>de.berlios.vch:osdserver</include>
                 <include>de.berlios.vch:parser</include>
                 <include>de.berlios.vch:parser.ard</include>
-                <include>de.berlios.vch:parser.dmax</include>
-                <include>de.berlios.vch:parser.dreisat</include>
                 <include>de.berlios.vch:parser.rss</include>
                 <include>de.berlios.vch:parser.service</include>
                 <include>de.berlios.vch:parser.web</include>
                 <include>de.berlios.vch:parser.youtube</include>
                 <include>de.berlios.vch:parser.zdf</include>
                 <include>de.berlios.vch:playlist</include>
+                <include>de.berlios.vch:playlist.osd</include>
                 <include>de.berlios.vch:playlist.web</include>
                 <include>de.berlios.vch:search</include>
                 <include>de.berlios.vch:search.ard</include>
+                <include>de.berlios.vch:search.osd</include>
                 <include>de.berlios.vch:search.web</include>
                 <include>de.berlios.vch:search.youtube</include>
                 <include>de.berlios.vch:search.zdf</include>
