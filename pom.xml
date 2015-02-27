@@ -57,6 +57,7 @@
         <module>../vch-search-arte</module>
         <module>../vch-search-osd</module>
         <module>../vch-search-web</module>
+        <module>../vch-search-youtube</module>
         <module>../vch-search-zdf</module>
         <module>../vch-update</module>
         <module>../vch-uri-resolver</module>
@@ -78,7 +79,6 @@
         <module>../vch-parser-youporn</module>
         <module>../vch-search-n24</module>
         <module>../vch-search-orf</module>
-        <module>../vch-search-youtube</module>
         <module>../vch-upnp</module>
     </modules>
     -->
