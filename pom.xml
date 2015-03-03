@@ -15,6 +15,12 @@
     <name>Vodcatcher Helper</name>
     <description>Webcrawler for video discovery and streaming bridge to VDR</description>
 
+    <scm>
+        <connection>scm:git:git@github.com/hampelratte/vch-master.git</connection>
+        <developerConnection>scm:git:git@github.com:hampelratte/vch-master.git</developerConnection>
+        <url>https://github.com/hampelratte/vch-master.git</url>
+    </scm>
+
     <modules>
         <module>../vch-parent</module>
         <module>../vch-bundle-loader</module>
