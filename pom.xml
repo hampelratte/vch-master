@@ -119,19 +119,14 @@
                         <version>1.4</version>
                         <executions>
                             <execution>
-                                <id>enforce-no-snapshots</id>
+                                <id>enforce-release-rules</id>
                                 <goals>
                                     <goal>enforce</goal>
                                 </goals>
                                 <configuration>
                                     <rules>
-                                        <reactorModuleConvergence>
-                                            <message>SNAPSHOT
-                                                dependencies are not
-                                                valid for a release
-                                                build</message>
-                                            <ignoreModuleDependencies>false</ignoreModuleDependencies>
-                                        </reactorModuleConvergence>
+                                        <requireReleaseVersion><message>vch-master must not be SNAPSHOT!</message></requireReleaseVersion>
+                                        <requireReleaseDeps><message>SNAPSHOT dependencies are not valid for a release build</message></requireReleaseDeps>
                                     </rules>
                                     <fail>true</fail>
                                 </configuration>
