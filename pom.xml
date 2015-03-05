@@ -66,6 +66,7 @@
         <module>../vch-search-youtube</module>
         <module>../vch-search-zdf</module>
         <module>../vch-update</module>
+        <module>../vch-upnp</module>
         <module>../vch-uri-resolver</module>
         <module>../vch-web</module>
     </modules>
@@ -85,7 +86,6 @@
         <module>../vch-parser-youporn</module>
         <module>../vch-search-n24</module>
         <module>../vch-search-orf</module>
-        <module>../vch-upnp</module>
     </modules>
     -->
 
